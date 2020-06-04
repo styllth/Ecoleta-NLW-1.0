@@ -121,15 +121,49 @@ Além disto é bom ter um editor para trabalhar com o código. Neste projeto foi
 
 - ### :gear: Rodando o Back End (servidor)
 
-  ```
+```bash
+# Clone este repositório
+$ git clone https://github.com/styllth/Ecoleta-NLW.git
 
-  ```
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Ecoleta-NLW
+
+# Vá para a pasta server
+$ cd server
+
+# Instale as dependências
+$ npm install
+
+# Crie o banco de dados
+$ npm run knex:migrate
+$ npm run knex:seed
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+# O servidor inciará na porta:3333 - acesse http://localhost:3333
+```
 
 - ### 🧭 Rodando a aplicação web (Front End)
 
-  ```
+```bash
+# Clone este repositório
+$ git clone https://github.com/styllth/Ecoleta-NLW
 
-  ```
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd Ecoleta-NLW
+
+# Vá para a pasta da aplicação Front End
+$ cd web
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+```
 
 - ### 📱Rodando a aplicação mobile
 

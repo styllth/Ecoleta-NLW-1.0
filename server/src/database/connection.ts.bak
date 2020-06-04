@@ -1,0 +1,13 @@
+import knex from "knex";
+
+const connection = knex({
+    client: "pg",
+    connection: {
+        database: "nlw1",
+        user: "postgres",
+        password: "root",
+    },
+    useNullAsDefault: true,
+});
+
+export default connection;
