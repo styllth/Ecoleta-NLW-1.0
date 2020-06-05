@@ -59,7 +59,7 @@ As empresas ou entidades poderão se cadastrar na plataforma web e as pessoas te
 
 <a id="layout"></a>
 
-## 🎨 Layout
+## :art: Layout
 
 O layout da aplicação está disponível no Figma:
 
@@ -119,13 +119,18 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 Além disto é bom ter um editor para trabalhar com o código. Neste projeto foi usado o [VSCode](https://code.visualstudio.com/)
 
-- ### :gear: Rodando o Back End (servidor)
+- ### Baixando o projeto
 
 ```bash
 # Clone este repositório
 $ git clone https://github.com/styllth/Ecoleta-NLW.git
 
-# Acesse a pasta do projeto no terminal/cmd
+```
+
+- ### :gear: Rodando o Back End (servidor)
+
+```bash
+# Acesse a pasta do projeto no terminal
 $ cd Ecoleta-NLW
 
 # Vá para a pasta server
@@ -144,13 +149,10 @@ $ npm run dev
 # O servidor inciará na porta:3333 - acesse http://localhost:3333
 ```
 
-- ### 🧭 Rodando a aplicação web (Front End)
+- ### :world_map: Rodando a aplicação web (Front End)
 
 ```bash
-# Clone este repositório
-$ git clone https://github.com/styllth/Ecoleta-NLW
-
-# Acesse a pasta do projeto no seu terminal/cmd
+# Acesse a pasta do projeto no seu terminal
 $ cd Ecoleta-NLW
 
 # Vá para a pasta da aplicação Front End
@@ -165,15 +167,22 @@ $ npm run start
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
 
-- ### 📱Rodando a aplicação mobile
+- ### :iphone: Rodando a aplicação mobile
 
-  ```
+```bash
+# Acesse a pasta do projeto no seu terminal
+$ cd Ecoleta-NLW
 
-  ```
+# Vá para a pasta da aplicação Front End
+$ cd mobile
+
+# Instale as dependências
+$ npm install
+```
 
 <a id="como-contribuir"></a>
 
-## 😯 Como contribuir para o projeto
+## :smirk: Como contribuir para o projeto
 
 - Faça um Fork desse repositório,
 - Crie uma branch com as suas alterações: `git checkout -b my-feature`
