@@ -97,6 +97,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [Node.js](https://nodejs.org/en/)
 - [ReactJS](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
 
 <a id="como-rodar"></a>
 
@@ -173,11 +174,19 @@ $ npm run start
 # Acesse a pasta do projeto no seu terminal
 $ cd Ecoleta-NLW
 
-# Vá para a pasta da aplicação Front End
+# Vá para a pasta da aplicação Mobile
 $ cd mobile
 
 # Instale as dependências
 $ npm install
+
+# Execute o app em modo de desenvolvimento
+$ npm run start
+
+# Usando o Expo, basta digitalizar o qrcode no terminal ou na página da exposição
+
+# Se houver algum problema com as fontes, execute:
+$ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 ```
 
 <a id="como-contribuir"></a>
