@@ -6,7 +6,7 @@ import './styles.css';
 
 import logo from '../../assets/logo.svg';
 
-const Home = () => {
+export default () => {
   return (
     <div id="page-home">
       <div className="content">
@@ -31,5 +31,3 @@ const Home = () => {
     </div>
   );
 };
-
-export default Home;
