@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚀 NextLevelWeek 1.0 🚀
+	🚀 NextLevelWeek 1.0🚀
 </h4>
 
 <p align="center">
@@ -53,7 +53,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 Este projeto foi desenvolvido na Trilha **Booster** durante a **Next Level Week** distribuída pela [Rocketseat](https://rocketseat.com.br/).
 
-O **Ecoleta** é uma aplicação Web e Mobile cujo objetivo é conectar empresas ou entidades de coleta de resíduos à pessoas que precisam descartar seus resíduos de maneira ecológica.
+O **Ecoleta** é um marketplace cujo objetivo é conectar empresas ou entidades de coleta de resíduos à pessoas que precisam descartar seus resíduos de maneira ecológica.
 
 As empresas ou entidades poderão se cadastrar na plataforma web e as pessoas terão acesso ao aplicativo móvel, onde poderão navegar pelo mapa para ver as instituições cadastradas e encontrar um ponto de coleta mais próximo.
 
@@ -66,6 +66,8 @@ O layout da aplicação está disponível no Figma:
 <a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
   <img alt="Layout figma" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
+
+Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
 ### :iphone: Mobile
 
@@ -85,7 +87,7 @@ O layout da aplicação está disponível no Figma:
 
 ## :books: Documentação
 
-Para reforçar alguns conceitos e registrar comandos que são difíceis de se lembrar existe uma pequena **[DOCUMENTAÇÃO](DOCUMENTATION.md)** para ajudar quem esta iniciando com **TypeScript**, **Node**, **ReactJS** e **React Native**.
+Para reforçar alguns conceitos e registrar comandos que são difíceis de se lembrar existe uma pequena **[DOCUMENTAÇÃO](Conceitos.md)** para ajudar quem esta iniciando com **TypeScript**, **Node**, **ReactJS** e **React Native**.
 
 <a id="tecnologias-utilizadas"></a>
 
@@ -93,7 +95,6 @@ Para reforçar alguns conceitos e registrar comandos que são difíceis de se le
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-- [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
 - [ReactJS](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
