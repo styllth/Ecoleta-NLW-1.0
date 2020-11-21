@@ -16,4 +16,4 @@ app.use('/uploads', express.static(path.resolve(__dirname, '..', 'uploads')));
 
 app.use(errors());
 
-app.listen('3333');
+app.listen('3333', () => console.log('Api is running at port 3333'));
